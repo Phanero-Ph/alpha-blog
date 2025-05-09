@@ -1,0 +1,46 @@
+/* custom.css */
+
+.navbar {
+    background-color: #1a1a2e !important; /* dark navy */
+  }
+  
+  .navbar .nav-link {
+    color: #ffffff !important; /* white text */
+  }
+  
+  .navbar .nav-link:hover {
+    color: #f1c40f !important; /* gold on hover */
+  }
+  .navbar-brand{
+    color:#ffffff !important;
+  }
+
+  #home-container{
+    margin-top:25px;
+  }
+
+  .jumbotron { 
+    
+    background-color:#1a1a2e;   
+    
+  }
+  
+  /* Sticky Footer Classes */
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+  background: #1a1a2e;
+  background: linear-gradient(to right, #f8fafd, #dbe8f3);
+}
+
+  
